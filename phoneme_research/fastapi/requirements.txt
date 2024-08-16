@@ -1,0 +1,9 @@
+uvicorn==0.16.0
+python-multipart==0.0.5
+fastapi==0.70.1
+nest-asyncio==1.5.4
+protobuf==3.20
+allosaurus
+epitran
+levenshtein
+pydub
